@@ -1,1 +1,1 @@
-# school_labs_git
+# school_labs
